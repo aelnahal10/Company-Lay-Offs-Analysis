@@ -4,7 +4,7 @@ Welcome to the GitHub repository of our Layoff Data Analysis Project! This data 
 ## About The Dataset
 The data set that we used for this project provides comprehensive insights into layoff events of different companies. The dataset is organized with the following 
 
-## columns:
+## Columns:
 company: This refers to the name of the company that had the layoff event.
 location: The geographical location where the company is based.
 industry: The industry sector to which the company belongs.
