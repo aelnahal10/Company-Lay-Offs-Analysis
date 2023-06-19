@@ -1,8 +1,8 @@
 # Company-Lay-Offs-Analysis
-Welcome to the GitHub repository of our Layoff Data Analysis Project! This data analysis project is carried out in a Jupyter notebook and employs various data analytics techniques to explore the layoff events from different companies across various industries.
+Welcome to the GitHub repository of a Layoff Data Analysis Project! This data analysis project is carried out in a Jupyter notebook and employs various data analytics techniques to explore the layoff events from different companies across various industries.
 
 ## About The Dataset
-The data set that we used for this project provides comprehensive insights into layoff events of different companies. The dataset is organized with the following 
+The data set that used for this project provides comprehensive insights into layoff events of different companies. The dataset is organized with the following 
 
 ## Columns:
 company: This refers to the name of the company that had the layoff event.
@@ -16,7 +16,7 @@ country: The country where the company is based.
 funds_raised: The total amount of funds that the company has raised to date.
 
 ## Jupyter Notebook
-We have performed all of the analysis in a Jupyter Notebook environment, which provides a clean, interactive interface for conducting and presenting data analyses. This allows us to execute code in separate blocks while documenting our findings and explanations alongside, enhancing readability and understanding.
+I have performed all of the analysis in a Jupyter Notebook environment, which provides a clean, interactive interface for conducting and presenting data analyses. This allows me to execute code in separate blocks while documenting our findings and explanations alongside, enhancing readability and understanding.
 
 ## Purpose of the Project
 Understand trends in layoff events in different companies, locations, and industries
