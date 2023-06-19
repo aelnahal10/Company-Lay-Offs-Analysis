@@ -19,8 +19,6 @@ funds_raised: The total amount of funds that the company has raised to date.
 We have performed all of the analysis in a Jupyter Notebook environment, which provides a clean, interactive interface for conducting and presenting data analyses. This allows us to execute code in separate blocks while documenting our findings and explanations alongside, enhancing readability and understanding.
 
 ## Purpose of the Project
-The purpose of this data analysis project is to:
-
 Understand trends in layoff events in different companies, locations, and industries
 Identify relationships, if any, between company stage, funds raised, and layoff events
 Understand how layoffs have been evolving over time
