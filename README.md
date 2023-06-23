@@ -6,13 +6,21 @@ The data set that used for this project provides comprehensive insights into lay
 
 ## Columns:
 company: This refers to the name of the company that had the layoff event.
+
 location: The geographical location where the company is based.
+
 industry: The industry sector to which the company belongs.
+
 total_laid_off: The total number of employees who were laid off in the event.
+
 percentage_laid_off: The percentage of employees laid off from the total number of employees in the company.
+
 date: The date when the layoff event occurred.
+
 stage: The stage of the company, for example, startup, growth, mature.
+
 country: The country where the company is based.
+
 funds_raised: The total amount of funds that the company has raised to date.
 
 ## Jupyter Notebook
